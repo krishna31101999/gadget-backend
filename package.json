@@ -1,0 +1,24 @@
+{
+  "name": "gadget-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna31101999/gadget-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna31101999/gadget-backend/issues"
+  },
+  "homepage": "https://github.com/krishna31101999/gadget-backend#readme",
+  "engines": {
+    "node": "~13.3.0",
+    "npm": "~6.13.1"
+  }
+}
